@@ -1,9 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Please Note!
 
-After download, please first run 
+After download, please don't forget to firstly run
+### `cd PeterChen_meldCX`
+to direct you to the main project folder and then, 
+please run
 ### `npm install`
 to install node_modules
+If installed successfully, just run
+### `npm run start`
 
 ## The screenshot folder!
 In this folder, there are screenshots of each 'screen', showing it work properly as required
