@@ -3,7 +3,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 After download, please first run 
 ### `npm install`
-to install node_module
+to install node_modules
+
+*There are screenshots of each 'screen', showing it work properly as required
 
 ## Available Scripts
 
