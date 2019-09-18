@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Please Note!
 
-After download, please don't forget to firstly run
+After download, please don't forget to run
 ### `cd PeterChen_meldCX`
 to direct you to the main project folder and then, 
 please run
